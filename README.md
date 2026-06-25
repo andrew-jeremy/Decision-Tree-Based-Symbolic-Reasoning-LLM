@@ -134,3 +134,6 @@ configs/
 ## Notes on benchmarking
 
 The included sample data is only a smoke test. Use a full ProofWriter split for meaningful results. The repository logs all model decisions so you can analyze when the symbolic oracle corrects, vetoes, or disagrees with the LLM agent.
+
+This repo is based on the following citation. Please cite  this reference when using this repo in your work:
+<https://github.com/andrew-jeremy/Decision-Tree-Based-Symbolic-Reasoning-LLM>
