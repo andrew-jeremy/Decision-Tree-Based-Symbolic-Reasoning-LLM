@@ -137,4 +137,4 @@ The included sample data is only a smoke test. Use a full ProofWriter split for 
 
 This repo is based on the following citation. Please cite  this reference when using this repo in your work:
 
-<https://github.com/andrew-jeremy/Decision-Tree-Based-Symbolic-Reasoning-LLM>
+<https://arxiv.org/abs/2508.05311>
