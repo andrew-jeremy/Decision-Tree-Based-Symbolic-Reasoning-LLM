@@ -1,0 +1,30 @@
+{"id": "sample-2-0", "context": "All cats are mammals. All mammals are animals.", "question": "cats are animals", "answer": "yes"}
+{"id": "sample-2-1", "context": "All birds are animals. No reptiles are birds.", "question": "reptiles are birds", "answer": "no"}
+{"id": "sample-2-2", "context": "All birds are animals. No reptiles are birds.", "question": "reptiles are birds", "answer": "no"}
+{"id": "sample-2-3", "context": "No cold things are hot. Ice is cold.", "question": "Ice is hot", "answer": "no"}
+{"id": "sample-2-4", "context": "If someone is kind then they are trusted. Alice is kind.", "question": "Alice is trusted", "answer": "yes"}
+{"id": "sample-2-5", "context": "All doctors are trained. Mira is a doctor.", "question": "Mira is trained", "answer": "yes"}
+{"id": "sample-2-6", "context": "All doctors are trained. Mira is a doctor.", "question": "Mira is trained", "answer": "yes"}
+{"id": "sample-2-7", "context": "If water is frozen then it is solid. This water is not frozen.", "question": "This water is solid", "answer": "no"}
+{"id": "sample-2-8", "context": "If an object is red then it is visible. The box is blue.", "question": "The box is visible", "answer": "no"}
+{"id": "sample-2-9", "context": "If water is frozen then it is solid. This water is not frozen.", "question": "This water is solid", "answer": "no"}
+{"id": "sample-2-10", "context": "All cats are mammals. All mammals are animals.", "question": "cats are animals", "answer": "yes"}
+{"id": "sample-2-11", "context": "If water is frozen then it is solid. This water is not frozen.", "question": "This water is solid", "answer": "no"}
+{"id": "sample-2-12", "context": "If someone is kind then they are trusted. Alice is kind.", "question": "Alice is trusted", "answer": "yes"}
+{"id": "sample-2-13", "context": "If a sample reacts then it is unstable. Sample A reacts.", "question": "Sample A is unstable", "answer": "yes"}
+{"id": "sample-2-14", "context": "If a sample reacts then it is unstable. Sample A reacts.", "question": "Sample A is unstable", "answer": "yes"}
+{"id": "sample-2-15", "context": "If the alarm rings then evacuate. The alarm rings.", "question": "evacuate", "answer": "yes"}
+{"id": "sample-2-16", "context": "No cold things are hot. Ice is cold.", "question": "Ice is hot", "answer": "no"}
+{"id": "sample-2-17", "context": "If the alarm rings then evacuate. The alarm rings.", "question": "evacuate", "answer": "yes"}
+{"id": "sample-2-18", "context": "All squares are shapes. Circles are shapes.", "question": "Circles are squares", "answer": "no"}
+{"id": "sample-2-19", "context": "If the alarm rings then evacuate. The alarm rings.", "question": "evacuate", "answer": "yes"}
+{"id": "sample-2-20", "context": "All doctors are trained. Mira is a doctor.", "question": "Mira is trained", "answer": "yes"}
+{"id": "sample-2-21", "context": "All cats are mammals. All mammals are animals.", "question": "cats are animals", "answer": "yes"}
+{"id": "sample-2-22", "context": "All cats are mammals. All mammals are animals.", "question": "cats are animals", "answer": "yes"}
+{"id": "sample-2-23", "context": "No cold things are hot. Ice is cold.", "question": "Ice is hot", "answer": "no"}
+{"id": "sample-2-24", "context": "All squares are shapes. Circles are shapes.", "question": "Circles are squares", "answer": "no"}
+{"id": "sample-2-25", "context": "No cold things are hot. Ice is cold.", "question": "Ice is hot", "answer": "no"}
+{"id": "sample-2-26", "context": "If a sample reacts then it is unstable. Sample A reacts.", "question": "Sample A is unstable", "answer": "yes"}
+{"id": "sample-2-27", "context": "If a sample reacts then it is unstable. Sample A reacts.", "question": "Sample A is unstable", "answer": "yes"}
+{"id": "sample-2-28", "context": "If the alarm rings then evacuate. The alarm rings.", "question": "evacuate", "answer": "yes"}
+{"id": "sample-2-29", "context": "If someone is kind then they are trusted. Alice is kind.", "question": "Alice is trusted", "answer": "yes"}

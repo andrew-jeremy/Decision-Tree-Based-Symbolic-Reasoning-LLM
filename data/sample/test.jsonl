@@ -1,0 +1,30 @@
+{"id": "sample-3-0", "context": "If an object is red then it is visible. The box is blue.", "question": "The box is visible", "answer": "no"}
+{"id": "sample-3-1", "context": "If water is frozen then it is solid. This water is not frozen.", "question": "This water is solid", "answer": "no"}
+{"id": "sample-3-2", "context": "If the alarm rings then evacuate. The alarm rings.", "question": "evacuate", "answer": "yes"}
+{"id": "sample-3-3", "context": "If someone is kind then they are trusted. Alice is kind.", "question": "Alice is trusted", "answer": "yes"}
+{"id": "sample-3-4", "context": "No cold things are hot. Ice is cold.", "question": "Ice is hot", "answer": "no"}
+{"id": "sample-3-5", "context": "If water is frozen then it is solid. This water is not frozen.", "question": "This water is solid", "answer": "no"}
+{"id": "sample-3-6", "context": "All squares are shapes. Circles are shapes.", "question": "Circles are squares", "answer": "no"}
+{"id": "sample-3-7", "context": "If water is frozen then it is solid. This water is not frozen.", "question": "This water is solid", "answer": "no"}
+{"id": "sample-3-8", "context": "All birds are animals. No reptiles are birds.", "question": "reptiles are birds", "answer": "no"}
+{"id": "sample-3-9", "context": "If water is frozen then it is solid. This water is not frozen.", "question": "This water is solid", "answer": "no"}
+{"id": "sample-3-10", "context": "All cats are mammals. All mammals are animals.", "question": "cats are animals", "answer": "yes"}
+{"id": "sample-3-11", "context": "All squares are shapes. Circles are shapes.", "question": "Circles are squares", "answer": "no"}
+{"id": "sample-3-12", "context": "All doctors are trained. Mira is a doctor.", "question": "Mira is trained", "answer": "yes"}
+{"id": "sample-3-13", "context": "If the alarm rings then evacuate. The alarm rings.", "question": "evacuate", "answer": "yes"}
+{"id": "sample-3-14", "context": "If an object is red then it is visible. The box is blue.", "question": "The box is visible", "answer": "no"}
+{"id": "sample-3-15", "context": "If an object is red then it is visible. The box is blue.", "question": "The box is visible", "answer": "no"}
+{"id": "sample-3-16", "context": "All squares are shapes. Circles are shapes.", "question": "Circles are squares", "answer": "no"}
+{"id": "sample-3-17", "context": "If the alarm rings then evacuate. The alarm rings.", "question": "evacuate", "answer": "yes"}
+{"id": "sample-3-18", "context": "If the alarm rings then evacuate. The alarm rings.", "question": "evacuate", "answer": "yes"}
+{"id": "sample-3-19", "context": "All squares are shapes. Circles are shapes.", "question": "Circles are squares", "answer": "no"}
+{"id": "sample-3-20", "context": "If a sample reacts then it is unstable. Sample A reacts.", "question": "Sample A is unstable", "answer": "yes"}
+{"id": "sample-3-21", "context": "If someone is kind then they are trusted. Alice is kind.", "question": "Alice is trusted", "answer": "yes"}
+{"id": "sample-3-22", "context": "If an object is red then it is visible. The box is blue.", "question": "The box is visible", "answer": "no"}
+{"id": "sample-3-23", "context": "If someone is kind then they are trusted. Alice is kind.", "question": "Alice is trusted", "answer": "yes"}
+{"id": "sample-3-24", "context": "If the alarm rings then evacuate. The alarm rings.", "question": "evacuate", "answer": "yes"}
+{"id": "sample-3-25", "context": "If a sample reacts then it is unstable. Sample A reacts.", "question": "Sample A is unstable", "answer": "yes"}
+{"id": "sample-3-26", "context": "All cats are mammals. All mammals are animals.", "question": "cats are animals", "answer": "yes"}
+{"id": "sample-3-27", "context": "All birds are animals. No reptiles are birds.", "question": "reptiles are birds", "answer": "no"}
+{"id": "sample-3-28", "context": "If someone is kind then they are trusted. Alice is kind.", "question": "Alice is trusted", "answer": "yes"}
+{"id": "sample-3-29", "context": "If water is frozen then it is solid. This water is not frozen.", "question": "This water is solid", "answer": "no"}

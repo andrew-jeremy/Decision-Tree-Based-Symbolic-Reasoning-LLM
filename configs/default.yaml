@@ -1,0 +1,40 @@
+data:
+  source: sample
+  train_path: data/sample/train.jsonl
+  val_path: data/sample/val.jsonl
+  test_path: data/sample/test.jsonl
+  # For a full ProofWriter run, switch source to hf or local_jsonl.
+  # source: hf
+  # hf_name: tasksource/proofwriter
+  # hf_config: null
+  max_examples: null
+
+tree:
+  kind: random_forest
+  max_depth: 8
+  n_estimators: 200
+  random_state: 13
+
+llm:
+  provider: heuristic
+  gemini_model: models/gemini-1.5-flash
+  api_key_env: GEMINI_API_KEY
+  batch_size: 8
+  cache_path: outputs/gemini_cache.jsonl
+  temperature: 0.0
+  max_output_tokens: 32
+
+orchestrator:
+  mode: policy
+  veto_confidence_threshold: 0.70
+  llm_weight: 0.65
+  tree_weight: 0.35
+  policy_epochs: 40
+  policy_lr: 0.01
+  policy_hidden: 32
+  seed: 13
+
+run:
+  output_dir: outputs/sample_run
+  save_plots: true
+  save_tree_plot: true

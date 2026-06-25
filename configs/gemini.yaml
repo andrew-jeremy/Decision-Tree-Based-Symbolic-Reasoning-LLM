@@ -1,0 +1,21 @@
+data:
+  source: local_jsonl
+  train_path: data/proofwriter/train.jsonl
+  val_path: data/proofwriter/val.jsonl
+  test_path: data/proofwriter/test.jsonl
+  max_examples: null
+
+llm:
+  provider: gemini
+  gemini_model: models/gemini-1.5-flash
+  api_key_env: GEMINI_API_KEY
+  batch_size: 8
+  cache_path: outputs/gemini_cache.jsonl
+  temperature: 0.0
+  max_output_tokens: 32
+
+orchestrator:
+  mode: policy
+
+run:
+  output_dir: outputs/gemini_run
