@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Train and evaluate the hybrid Tree-LLM orchestrator on ProofWriter-style data.
 #
-# Andrew Kiruluta, UC Berkeley
+# Andrew Kiruluta, UC Berkeley, May 2026
 
 from __future__ import annotations
 import argparse

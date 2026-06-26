@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Generate small sample ProofWriter-style train/val/test datasets for local smoke tests.
 #
-# Andrew Kiruluta, UC Berkeley
+# Andrew Kiruluta, UC Berkeley, May 2026
 
 from __future__ import annotations
 import random

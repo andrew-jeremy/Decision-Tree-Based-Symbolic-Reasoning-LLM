@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Run single-example hybrid Tree-LLM inference using a trained run directory.
 #
-# Andrew Kiruluta, UC Berkeley
+# Andrew Kiruluta, UC Berkeley, May 2026
 
 from __future__ import annotations
 import argparse

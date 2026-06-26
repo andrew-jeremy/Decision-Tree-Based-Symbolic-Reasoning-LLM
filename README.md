@@ -1,4 +1,5 @@
 # Tree-LLM Reasoner
+### Andrew Kiruluta, UC Berkeley, May 2026
 
 A runnable reference implementation of a hybrid symbolic-neural reasoning architecture: decision-tree oracle + LLM agent + trainable orchestrator. The implementation targets ProofWriter-style entailment data and includes training, validation, test evaluation, plots, rule export, and single-example inference.
 
